@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Courtney Maynard / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,7 +23,7 @@ repository               : "courtney-maynard/courtney-maynard.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DSC00292.JPG"
   name             : "Courtney Maynard"
   pronouns         : "she/her"  
   bio              : "1st Year PhD Student @ Northeastern Khoury College of Computer Science & affiliated with the Network Science Institute"
