@@ -23,7 +23,7 @@ repository               : "courtney-maynard/courtney-maynard.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC00292.JPG"
+  avatar           : "profile.png"
   name             : "Courtney Maynard"
   pronouns         : "she/her"  
   bio              : "1st Year PhD Student @ Northeastern Khoury College of Computer Science & affiliated with the Network Science Institute"
